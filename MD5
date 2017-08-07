@@ -1,0 +1,9 @@
+c0df7b2bc5ea8f8a835aeeeda9507412 *DESCRIPTION
+1b9934e6cdea1a3bf9be300d35060e3c *LICENSE
+5260531f0d918132846834885d075ae3 *NAMESPACE
+6551522f4a69fe04eb936d705d0e3018 *R/default.R
+24e097f9acf32fba97c318e14d17d13a *man/default.Rd
+ee5b5ca5e43f7d13408ce7043e382943 *tests/testthat.R
+e954d19eae4a2d9f5b6679dbec73d925 *tests/testthat/test_errors.R
+9aaaeedb5ce7fa52aad1f2b5e49a498e *tests/testthat/test_printing.R
+d91eaeb1cbe94ad094cbd5a147d199a0 *tests/testthat/test_setting.R
